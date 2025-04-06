@@ -1,3 +1,8 @@
 {
-  
+  "portfolio_template_backend": {
+    "ic": "cf2kg-eaaaa-aaaah-qqaqq-cai"
+  },
+  "portfolio_template_frontend": {
+    "ic": "cmzb2-siaaa-aaaah-qqara-cai"
+  }
 }
